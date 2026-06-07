@@ -273,32 +273,10 @@ elif page == "About":
                 
 
 
-
-
-
-
-
-
-
-
-
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                                                                    Managed By: HARPREET SINGH
     """)
+st.markdown("---")
+st.markdown(
+    "<center>© 2026 Heart Disease Prediction System | Developed by Harpreet Singh</center>",
+    unsafe_allow_html=True
+)
         
