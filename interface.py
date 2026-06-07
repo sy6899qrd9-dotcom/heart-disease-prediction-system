@@ -71,7 +71,7 @@ if page == "Home":
             st.session_state.page = "Prediction"
 
     with col2:
-        st.image("/Users/apple/Downloads/d6ea22d0cae6bdd40e806347b0f2b1bc-2.jpg", width=300)
+        st.image("/Users/apple/Desktop/HAPPI K/b1b839c1de9b66241cf6084029046a8e.jpg", width=300)
 
         
        
