@@ -242,7 +242,7 @@ elif page == "Reports":
     except:
         st.info("No records available yet.")
 
-    if os.path.exists("patiennt_record.csv"):
+    if os.path.exists("patient_record.csv"):
         with open("patient_record.csv", "rb") as file:
             st.download_button(
             label="📥 Download Records",
